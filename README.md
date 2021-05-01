@@ -7,3 +7,4 @@ ML/DL 관련 실습 자료 모음
 - [붓꽃의_품종_분류_연습(KNN)](./붓꽃의_품종_분류_연습(KNN).ipynb)
 - [KNN_알고리즘_연습](./KNN_알고리즘_연습.ipynb)
 - [Fashion_MNIST_연습_(CNN_알고리즘)](./Fashion_MNIST_연습_(CNN_알고리즘).ipynb)
+- [선형_모델_연습](./선형_모델_연습.ipynb)
