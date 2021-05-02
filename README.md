@@ -8,3 +8,4 @@ ML/DL 관련 실습 자료 모음
 - [KNN_알고리즘_연습](./KNN_알고리즘_연습.ipynb)
 - [Fashion_MNIST_연습_(CNN_알고리즘)](./Fashion_MNIST_연습_(CNN_알고리즘).ipynb)
 - [선형_모델_연습](./선형_모델_연습.ipynb)
+- [CIFAR10_(CNN)_연습](./CIFAR10_(CNN)_연습.ipynb)
