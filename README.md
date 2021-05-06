@@ -7,7 +7,7 @@ ML/DL 관련 실습 자료 모음
 - [Fashion_MNIST_연습_(CNN_알고리즘)](./Fashion_MNIST_연습_(CNN_알고리즘).ipynb)
 ### CIFAR10
 - [CIFAR10_(CNN)_연습](./CIFAR10_(CNN)_연습.ipynb)
-- [CIFAR10 연습 (사전학습_모델)](./CIFAR10 연습(사전학습_모델).ipynb)
+- [CIFAR10 연습 (사전학습_모델)](./CIFAR10%20연습%20(사전학습_모델).ipynb)
 ### 기타
 - [선형_모델_연습](./선형_모델_연습.ipynb)
 - [경사하강법 구현 연습](./경사_하강법_구현_실습(sklearn,_boston).ipynb)
