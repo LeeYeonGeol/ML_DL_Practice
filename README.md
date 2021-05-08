@@ -3,7 +3,7 @@ ML/DL 관련 실습 자료 모음
 
 ## 연습
 ### 개/고양이 분류
-- [개와 고양이 분류](./개와_고양이_분류.ipynb)
+- [개와 고양이 분류](./개와%20고양이%20분류.ipynb)
 ### Fashion_MNIST
 - [Fashion_MNIST_연습(Dense_Layer)](./Fashion_MNIST_연습_(Dense_Layer).ipynb)
 - [Fashion_MNIST_연습_(CNN_알고리즘)](./Fashion_MNIST_연습_(CNN_알고리즘).ipynb)
